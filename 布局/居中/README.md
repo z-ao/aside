@@ -33,4 +33,4 @@
 			justify-content: center;
 		}
 ```
-万能的弹性盒子.
+万能弹性盒子.
